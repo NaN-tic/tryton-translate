@@ -1,0 +1,520 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:calendar.todo:"
+msgid "Recurrence can not be recurrent!"
+msgstr "Una recurrencia no pot ser recurrent"
+
+msgctxt "error:calendar.todo:"
+msgid "UUID and recurrence must be unique in a calendar!"
+msgstr "UUID i recurrencia han de ser únics en un calendari"
+
+msgctxt "field:calendar.todo,alarms:"
+msgid "Alarms"
+msgstr "Alarmes"
+
+msgctxt "field:calendar.todo,attendees:"
+msgid "Attendees"
+msgstr "Assistents"
+
+msgctxt "field:calendar.todo,calendar:"
+msgid "Calendar"
+msgstr "Calendari"
+
+msgctxt "field:calendar.todo,calendar_owner:"
+msgid "Owner"
+msgstr "Propietaris"
+
+msgctxt "field:calendar.todo,calendar_read_users:"
+msgid "Read Users"
+msgstr "Usuaris amb permisos de lectura"
+
+msgctxt "field:calendar.todo,calendar_write_users:"
+msgid "Write Users"
+msgstr "Usuaris amb permisos d'escriptura"
+
+msgctxt "field:calendar.todo,categories:"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "field:calendar.todo,classification:"
+msgid "Classification"
+msgstr "Classificació"
+
+msgctxt "field:calendar.todo,completed:"
+msgid "Completed"
+msgstr "Completada"
+
+msgctxt "field:calendar.todo,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo,description:"
+msgid "Description"
+msgstr "Descripció"
+
+msgctxt "field:calendar.todo,dtstart:"
+msgid "Start Date"
+msgstr "Data inici"
+
+msgctxt "field:calendar.todo,due:"
+msgid "Due Date"
+msgstr "Data de venciment"
+
+msgctxt "field:calendar.todo,exdates:"
+msgid "Exception Dates"
+msgstr "Dates excloses"
+
+msgctxt "field:calendar.todo,exrules:"
+msgid "Exception Rules"
+msgstr "Regles d'excepcions"
+
+msgctxt "field:calendar.todo,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo,location:"
+msgid "Location"
+msgstr "Ubicació"
+
+msgctxt "field:calendar.todo,occurences:"
+msgid "Occurences"
+msgstr "Ocurrències"
+
+msgctxt "field:calendar.todo,organizer:"
+msgid "Organizer"
+msgstr "Organitzador"
+
+msgctxt "field:calendar.todo,parent:"
+msgid "Parent"
+msgstr "Pare"
+
+msgctxt "field:calendar.todo,percent_complete:"
+msgid "Percent complete"
+msgstr "Percentatge total"
+
+msgctxt "field:calendar.todo,rdates:"
+msgid "Recurrence Dates"
+msgstr "Dates de recurrencia"
+
+msgctxt "field:calendar.todo,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo,recurrence:"
+msgid "Recurrence"
+msgstr "Recurrencia"
+
+msgctxt "field:calendar.todo,rrules:"
+msgid "Recurrence Rules"
+msgstr "Regles de recurrencia"
+
+msgctxt "field:calendar.todo,sequence:"
+msgid "Sequence"
+msgstr "Seqüència"
+
+msgctxt "field:calendar.todo,status:"
+msgid "Status"
+msgstr "Estat"
+
+msgctxt "field:calendar.todo,summary:"
+msgid "Summary"
+msgstr "Resum"
+
+msgctxt "field:calendar.todo,timezone:"
+msgid "Timezone"
+msgstr "Zona horària"
+
+msgctxt "field:calendar.todo,uuid:"
+msgid "UUID"
+msgstr "UUID"
+
+msgctxt "field:calendar.todo,vtodo:"
+msgid "vtodo"
+msgstr "vtodo"
+
+msgctxt "field:calendar.todo,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo-calendar.category,category:"
+msgid "Category"
+msgstr "Categoria"
+
+msgctxt "field:calendar.todo-calendar.category,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo-calendar.category,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo-calendar.category,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo-calendar.category,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo-calendar.category,todo:"
+msgid "To-Do"
+msgstr "Per fer"
+
+msgctxt "field:calendar.todo-calendar.category,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo-calendar.category,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo.alarm,calendar_alarm:"
+msgid "Calendar Alarm"
+msgstr "Alarma del calendari"
+
+msgctxt "field:calendar.todo.alarm,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo.alarm,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo.alarm,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo.alarm,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo.alarm,todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "field:calendar.todo.alarm,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo.alarm,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo.attendee,calendar_attendee:"
+msgid "Calendar Attendee"
+msgstr "Calendari d'assistents"
+
+msgctxt "field:calendar.todo.attendee,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo.attendee,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo.attendee,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo.attendee,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo.attendee,todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "field:calendar.todo.attendee,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo.attendee,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo.exdate,calendar_date:"
+msgid "Calendar Date"
+msgstr "Data calendari"
+
+msgctxt "field:calendar.todo.exdate,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo.exdate,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo.exdate,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo.exdate,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo.exdate,todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "field:calendar.todo.exdate,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo.exdate,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo.exrule,calendar_rrule:"
+msgid "Calendar RRule"
+msgstr "Regla de recurrencia"
+
+msgctxt "field:calendar.todo.exrule,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo.exrule,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo.exrule,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo.exrule,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo.exrule,todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "field:calendar.todo.exrule,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo.exrule,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo.rdate,calendar_date:"
+msgid "Calendar Date"
+msgstr "Data calendari"
+
+msgctxt "field:calendar.todo.rdate,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo.rdate,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo.rdate,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo.rdate,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo.rdate,todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "field:calendar.todo.rdate,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo.rdate,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:calendar.todo.rrule,calendar_rrule:"
+msgid "Calendar RRule"
+msgstr "Regla de recurrencia"
+
+msgctxt "field:calendar.todo.rrule,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:calendar.todo.rrule,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:calendar.todo.rrule,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:calendar.todo.rrule,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:calendar.todo.rrule,todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "field:calendar.todo.rrule,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:calendar.todo.rrule,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "help:calendar.todo,uuid:"
+msgid "Universally Unique Identifier"
+msgstr "Identificador universal únic"
+
+msgctxt "model:calendar.todo,name:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "model:calendar.todo-calendar.category,name:"
+msgid "Todo - Category"
+msgstr "Tasca - Categoria"
+
+msgctxt "model:calendar.todo.alarm,name:"
+msgid "Alarm"
+msgstr "Alarma"
+
+msgctxt "model:calendar.todo.attendee,name:"
+msgid "Attendee"
+msgstr "Assistent"
+
+msgctxt "model:calendar.todo.exdate,name:"
+msgid "Exception Date"
+msgstr "Data exclosa"
+
+msgctxt "model:calendar.todo.exrule,name:"
+msgid "Exception Rule"
+msgstr "Regla d'excepció"
+
+msgctxt "model:calendar.todo.rdate,name:"
+msgid "Todo Recurrence Date"
+msgstr "Data de recurrencia"
+
+msgctxt "model:calendar.todo.rrule,name:"
+msgid "Recurrence Rule"
+msgstr "Regla de recurrencia"
+
+msgctxt "model:ir.action,name:act_todo_form"
+msgid "Todos"
+msgstr "Tasques"
+
+msgctxt "model:ir.action,name:act_todo_form3"
+msgid "Todos"
+msgstr "Tasques"
+
+msgctxt "model:ir.ui.menu,name:menu_todo_form"
+msgid "Todos"
+msgstr "Tasques"
+
+msgctxt "selection:calendar.todo,classification:"
+msgid "Confidential"
+msgstr "Confidencial"
+
+msgctxt "selection:calendar.todo,classification:"
+msgid "Private"
+msgstr "Privat"
+
+msgctxt "selection:calendar.todo,classification:"
+msgid "Public"
+msgstr "Públic"
+
+#, fuzzy
+msgctxt "selection:calendar.todo,status:"
+msgid ""
+msgstr "Servidor"
+
+msgctxt "selection:calendar.todo,status:"
+msgid "Cancelled"
+msgstr "Cancel·lada"
+
+msgctxt "selection:calendar.todo,status:"
+msgid "Completed"
+msgstr "Completat"
+
+msgctxt "selection:calendar.todo,status:"
+msgid "In-Process"
+msgstr "En procés"
+
+msgctxt "selection:calendar.todo,status:"
+msgid "Needs-Action"
+msgstr "Necessita una acció"
+
+msgctxt "view:calendar.todo.attendee:"
+msgid "Attendee"
+msgstr "Assistent"
+
+msgctxt "view:calendar.todo.attendee:"
+msgid "Attendees"
+msgstr "Assistents"
+
+msgctxt "view:calendar.todo.exdate:"
+msgid "Exception Date"
+msgstr "Data exclosa"
+
+msgctxt "view:calendar.todo.exdate:"
+msgid "Exception Dates"
+msgstr "Dates excloses"
+
+msgctxt "view:calendar.todo.exrule:"
+msgid "Exception Rule"
+msgstr "Regla d'excepció"
+
+msgctxt "view:calendar.todo.exrule:"
+msgid "Exception Rules"
+msgstr "Regles d'excepcions"
+
+msgctxt "view:calendar.todo.rdate:"
+msgid "Recurrence Date"
+msgstr "Data de recurrencia"
+
+msgctxt "view:calendar.todo.rdate:"
+msgid "Recurrence Dates"
+msgstr "Dates de recurrencia"
+
+msgctxt "view:calendar.todo.rrule:"
+msgid "Recurrence Rule"
+msgstr "Regla de recurrencia"
+
+msgctxt "view:calendar.todo.rrule:"
+msgid "Recurrence Rules"
+msgstr "Regles de recurrencia"
+
+msgctxt "view:calendar.todo:"
+msgid "Attendees"
+msgstr "Assistents"
+
+msgctxt "view:calendar.todo:"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "view:calendar.todo:"
+msgid "General"
+msgstr "General"
+
+msgctxt "view:calendar.todo:"
+msgid "Occurences"
+msgstr "Ocurrències"
+
+msgctxt "view:calendar.todo:"
+msgid "Recurrences"
+msgstr "Recurrencies"
+
+msgctxt "view:calendar.todo:"
+msgid "Todo"
+msgstr "Tasca"
+
+msgctxt "view:calendar.todo:"
+msgid "Todos"
+msgstr "Tasques"
