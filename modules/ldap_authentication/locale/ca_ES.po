@@ -2,10 +2,6 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-msgctxt "error:res.user:"
-msgid "You can not set a password to a ldap user!"
-msgstr "No pot establir la contrasenya d'un usuari LDAP"
-
 msgctxt "field:ldap.connection,auth_base_dn:"
 msgid "Base DN"
 msgstr "DN base"

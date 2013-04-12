@@ -144,23 +144,23 @@ msgstr "Assentament comptable"
 
 msgctxt "help:product.template,account_stock:"
 msgid "This account will be used instead of the one defined on the category."
-msgstr "Aquest compte s'utilitzarà en lloc del definit a la categoria."
+msgstr "S'utilitzarà aquest compte en lloc del definit a la categoria."
 
 msgctxt "help:product.template,account_stock_customer:"
 msgid "This account will be used instead of the one defined on the category."
-msgstr "Aquest compte s'utilitzarà en lloc del definit a la categoria."
+msgstr "S'utilitzarà aquest compte en lloc del definit a la categoria."
 
 msgctxt "help:product.template,account_stock_lost_found:"
 msgid "This account will be used instead of the one defined on the category."
-msgstr "Aquest compte s'utilitzarà en lloc del definit a la categoria."
+msgstr "S'utilitzarà aquest compte en lloc del definit a la categoria."
 
 msgctxt "help:product.template,account_stock_production:"
 msgid "This account will be used instead of the one defined on the category."
-msgstr "Aquest compte s'utilitzarà en lloc del definit a la categoria."
+msgstr "S'utilitzarà aquest compte en lloc del definit a la categoria."
 
 msgctxt "help:product.template,account_stock_supplier:"
 msgid "This account will be used instead of the one defined on the category."
-msgstr "Aquest compte s'utilitzarà en lloc del definit a la categoria."
+msgstr "S'utilitzarà aquest compte en lloc del definit a la categoria."
 
 msgctxt "model:account.account.template,name:account_template_stock"
 msgid "Stock"

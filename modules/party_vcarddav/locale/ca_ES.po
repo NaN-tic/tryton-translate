@@ -2,9 +2,22 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "error:ir.action.report:"
+msgid "Invalid email definition on report \"%s\"."
+msgstr ""
+"La definició del correu electrònic sobre l'informe \"%s\", no és correcta."
+
 msgctxt "error:party.party:"
-msgid "The UUID of the party must be unique!"
-msgstr "L'UUID del tercer ha de ser únic."
+msgid "The UUID of the party must be unique."
+msgstr "El UUID del tercer ha de ser únic."
+
+msgctxt "error:webdav.collection:"
+msgid ""
+"You can not create a collection named \"%(parent)s\" in collection "
+"\"%(child)s\" because there is already a file with that name."
+msgstr ""
+"No podeu crear una colecció anomenada \"%(parent)s\" a la colecció "
+"\"%(child)s\" porquè ja hi ha un fitxer amb aquest nom."
 
 msgctxt "field:party.party,uuid:"
 msgid "UUID"

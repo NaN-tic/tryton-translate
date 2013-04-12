@@ -86,15 +86,7 @@ msgctxt "error:calendar.event:"
 msgid ""
 "You have been invited to the following event.\n"
 "\n"
-msgstr "Ha estat convidat al següent esdeveniment."
-
-msgctxt "field:calendar.attendee,schedule_agent:"
-msgid "Schedule Agent"
-msgstr "Agent del planificador"
-
-msgctxt "field:calendar.attendee,schedule_status:"
-msgid "Schedule Status"
-msgstr "Estat de la planificació"
+msgstr "Heu estat convidat al següent esdeveniment."
 
 msgctxt "field:calendar.event,organizer_schedule_agent:"
 msgid "Schedule Agent"
@@ -120,61 +112,9 @@ msgctxt "field:res.user,calendar_email_notification_update:"
 msgid "Changed invitations"
 msgstr "Invitacions canviades"
 
-msgctxt "selection:calendar.attendee,schedule_agent:"
-msgid ""
-msgstr "Servidor"
-
-msgctxt "selection:calendar.attendee,schedule_agent:"
-msgid "Client"
-msgstr "Client"
-
-msgctxt "selection:calendar.attendee,schedule_agent:"
-msgid "None"
-msgstr "Cap"
-
-msgctxt "selection:calendar.attendee,schedule_agent:"
-msgid "Server"
-msgstr "Servidor"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid ""
-msgstr "5.3"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "1.0"
-msgstr "1.0"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "1.1"
-msgstr "1.1"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "1.2"
-msgstr "1.2"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "3.7"
-msgstr "3.7"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "3.8"
-msgstr "3.8"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "5.1"
-msgstr "5.1"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "5.2"
-msgstr "5.2"
-
-msgctxt "selection:calendar.attendee,schedule_status:"
-msgid "5.3"
-msgstr "5.3"
-
 msgctxt "selection:calendar.event,organizer_schedule_agent:"
 msgid ""
-msgstr "Servidor"
+msgstr " "
 
 msgctxt "selection:calendar.event,organizer_schedule_agent:"
 msgid "Client"
@@ -190,7 +130,7 @@ msgstr "Servidor"
 
 msgctxt "selection:calendar.event,organizer_schedule_status:"
 msgid ""
-msgstr "5.3"
+msgstr " "
 
 msgctxt "selection:calendar.event,organizer_schedule_status:"
 msgid "1.0"

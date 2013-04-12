@@ -4,20 +4,15 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:project.allocation:"
 msgid "Percentage must be greater than zero"
-msgstr ""
-
-msgctxt "error:project.work:"
-msgid "You can not create recursive dependencies!"
-msgstr "No pot crear dependències recursives"
+msgstr "El percentatge ha de ser més gran que zero"
 
 msgctxt "field:project.allocation,create_date:"
 msgid "Create Date"
 msgstr "Data creació"
 
-#, fuzzy
 msgctxt "field:project.allocation,create_uid:"
 msgid "Create User"
-msgstr "Crear usuari"
+msgstr "Usuari creació"
 
 msgctxt "field:project.allocation,employee:"
 msgid "Employee"
@@ -37,7 +32,7 @@ msgstr "Nom"
 
 msgctxt "field:project.allocation,work:"
 msgid "Work"
-msgstr "Activitat"
+msgstr "Treball"
 
 msgctxt "field:project.allocation,write_date:"
 msgid "Write Date"
@@ -51,10 +46,9 @@ msgctxt "field:project.predecessor_successor,create_date:"
 msgid "Create Date"
 msgstr "Data creació"
 
-#, fuzzy
 msgctxt "field:project.predecessor_successor,create_uid:"
 msgid "Create User"
-msgstr "Crear usuari"
+msgstr "Usuari creació"
 
 msgctxt "field:project.predecessor_successor,id:"
 msgid "ID"
@@ -101,7 +95,7 @@ msgid "Allocations"
 msgstr "Assignacions"
 
 msgctxt "field:project.work,back_leveling_delay:"
-msgid "Leveling Delay"
+msgid "Back Leveling Delay"
 msgstr "Retard de l'anivellació"
 
 msgctxt "field:project.work,constraint_finish_date:"
@@ -186,7 +180,7 @@ msgstr "Predecessor - Successor"
 
 msgctxt "model:res.request.link,name:request_link_work"
 msgid "Work"
-msgstr "Activitat"
+msgstr "Treball"
 
 msgctxt "view:project.allocation:"
 msgid "Allocation"
