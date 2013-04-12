@@ -4,11 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:project.allocation:"
 msgid "Percentage must be greater than zero"
-msgstr ""
-
-msgctxt "error:project.work:"
-msgid "You can not create recursive dependencies!"
-msgstr "No puede crear dependencias recursivas."
+msgstr "El porcentaje debe ser mayor que cero"
 
 msgctxt "field:project.allocation,create_date:"
 msgid "Create Date"
@@ -36,7 +32,7 @@ msgstr "Nombre"
 
 msgctxt "field:project.allocation,work:"
 msgid "Work"
-msgstr "Actividad"
+msgstr "Trabajo"
 
 msgctxt "field:project.allocation,write_date:"
 msgid "Write Date"
@@ -99,7 +95,7 @@ msgid "Allocations"
 msgstr "Asignaciones"
 
 msgctxt "field:project.work,back_leveling_delay:"
-msgid "Leveling Delay"
+msgid "Back Leveling Delay"
 msgstr "Retraso de la nivelación"
 
 msgctxt "field:project.work,constraint_finish_date:"
@@ -184,7 +180,7 @@ msgstr "Predecesor - Sucesor"
 
 msgctxt "model:res.request.link,name:request_link_work"
 msgid "Work"
-msgstr "Actividad"
+msgstr "Trabajo"
 
 msgctxt "view:project.allocation:"
 msgid "Allocation"
