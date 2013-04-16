@@ -375,7 +375,7 @@ msgstr "Actiu"
 
 msgctxt "field:ir.action.act_window,auto_refresh:"
 msgid "Auto-Refresh"
-msgstr "Auto-Refresc"
+msgstr "Actualizació automatitzada"
 
 msgctxt "field:ir.action.act_window,context:"
 msgid "Context Value"
@@ -391,7 +391,7 @@ msgstr "Usuari creació"
 
 msgctxt "field:ir.action.act_window,domain:"
 msgid "Domain Value"
-msgstr "Valor domini"
+msgstr "Valor del domini"
 
 msgctxt "field:ir.action.act_window,domains:"
 msgid "Domains"
@@ -443,7 +443,7 @@ msgstr "Model"
 
 msgctxt "field:ir.action.act_window,search_value:"
 msgid "Search Criteria"
-msgstr "Filtrado"
+msgstr "Filtrat"
 
 msgctxt "field:ir.action.act_window,type:"
 msgid "Type"
@@ -2039,7 +2039,7 @@ msgstr "ID recurs"
 
 msgctxt "field:ir.translation,src:"
 msgid "Source"
-msgstr "Codi"
+msgstr "Original"
 
 msgctxt "field:ir.translation,src_md5:"
 msgid "Source MD5"
@@ -2051,7 +2051,7 @@ msgstr "Tipus"
 
 msgctxt "field:ir.translation,value:"
 msgid "Translation Value"
-msgstr "Valor de la traducció"
+msgstr "Traducció"
 
 msgctxt "field:ir.translation,write_date:"
 msgid "Write Date"
@@ -2547,7 +2547,7 @@ msgstr "Usuari modificació"
 
 msgctxt "help:ir.action.act_window,auto_refresh:"
 msgid "Add an auto-refresh on the view"
-msgstr "Afegeix un auto-refresc a la vista"
+msgstr "Afegeix un actualizació a la vista automatitzada"
 
 msgctxt "help:ir.action.act_window,limit:"
 msgid "Default limit for the list view"
@@ -2797,7 +2797,7 @@ msgstr "Neteja traduccions"
 
 msgctxt "model:ir.action,name:act_translation_export"
 msgid "Export Translations"
-msgstr "Exporta traducció"
+msgstr "Exporta traduccions"
 
 msgctxt "model:ir.action,name:act_translation_form"
 msgid "Translations"
@@ -2805,7 +2805,7 @@ msgstr "Traduccions"
 
 msgctxt "model:ir.action,name:act_translation_set"
 msgid "Set Report Translations"
-msgstr "Obtenir traduccions dels informes"
+msgstr "Obté traduccions dels informes"
 
 msgctxt "model:ir.action,name:act_translation_update"
 msgid "Synchronize Translations"
@@ -3041,11 +3041,11 @@ msgstr "Traducció"
 
 msgctxt "model:ir.translation.clean.start,name:"
 msgid "Clean translation"
-msgstr "Neteja traduccions"
+msgstr "Neteja traducció"
 
 msgctxt "model:ir.translation.clean.succeed,name:"
 msgid "Clean translation"
-msgstr "Neteja traduccions"
+msgstr "Neteja traducció"
 
 msgctxt "model:ir.translation.export.result,name:"
 msgid "Export translation"
@@ -3057,11 +3057,11 @@ msgstr "Exporta traducció"
 
 msgctxt "model:ir.translation.set.start,name:"
 msgid "Set Translation"
-msgstr "Definir traduccions"
+msgstr "Defineix traducció"
 
 msgctxt "model:ir.translation.set.succeed,name:"
 msgid "Set Translation"
-msgstr "Definir traduccions"
+msgstr "Defineix traducció"
 
 msgctxt "model:ir.translation.update.start,name:"
 msgid "Update translation"
@@ -3213,7 +3213,7 @@ msgstr "Neteja traduccions"
 
 msgctxt "model:ir.ui.menu,name:menu_translation_export"
 msgid "Export Translations"
-msgstr "Exporta traducció"
+msgstr "Exporta traduccions"
 
 msgctxt "model:ir.ui.menu,name:menu_translation_form"
 msgid "Translations"
@@ -3221,7 +3221,7 @@ msgstr "Traduccions"
 
 msgctxt "model:ir.ui.menu,name:menu_translation_set"
 msgid "Set Translations"
-msgstr "Definir traduccions"
+msgstr "Defineix traduccions"
 
 msgctxt "model:ir.ui.menu,name:menu_translation_update"
 msgid "Synchronize Translations"
@@ -3365,7 +3365,7 @@ msgstr "Realitzat"
 
 msgctxt "selection:ir.module.module.config_wizard.item,state:"
 msgid "Open"
-msgstr "Obrir"
+msgstr "Per obrir"
 
 msgctxt "selection:ir.module.module.dependency,state:"
 msgid "Installed"
@@ -3804,11 +3804,11 @@ msgstr "Exporta traducció"
 
 msgctxt "view:ir.translation.set.start:"
 msgid "Set Translations"
-msgstr "Definir traduccions"
+msgstr "Defineix traduccions"
 
 msgctxt "view:ir.translation.set.start:"
 msgid "Synchronize Translations?"
-msgstr "Vol sincronitzar les traduccions?"
+msgstr "Voleu sincronitzar les traduccions?"
 
 msgctxt "view:ir.translation.set.succeed:"
 msgid "Set Succeed!"
@@ -3816,7 +3816,7 @@ msgstr "Les traduccions s'han realitzat correctament."
 
 msgctxt "view:ir.translation.set.succeed:"
 msgid "Set Translations"
-msgstr "Definir traduccions"
+msgstr "Defineix traduccions"
 
 msgctxt "view:ir.translation.update.start:"
 msgid "Synchronize Translations"
@@ -3860,7 +3860,7 @@ msgstr "Vista"
 
 msgctxt "view:ir.ui.view:"
 msgid "_Show"
-msgstr "_Mostrar"
+msgstr "_Mostra"
 
 msgctxt "view:ir.ui.view_search:"
 msgid "View Search"

@@ -883,11 +883,11 @@ msgstr "Alerta usuari"
 
 msgctxt "selection:res.request,priority:"
 msgid "High"
-msgstr "Alt"
+msgstr "Alta"
 
 msgctxt "selection:res.request,priority:"
 msgid "Low"
-msgstr "Sota"
+msgstr "Baixa"
 
 msgctxt "selection:res.request,priority:"
 msgid "Normal"
@@ -911,11 +911,11 @@ msgstr "Esperant"
 
 msgctxt "selection:res.request.history,priority:"
 msgid "High"
-msgstr "Alt"
+msgstr "Alta"
 
 msgctxt "selection:res.request.history,priority:"
 msgid "Low"
-msgstr "Sota"
+msgstr "Baixa"
 
 msgctxt "selection:res.request.history,priority:"
 msgid "Normal"

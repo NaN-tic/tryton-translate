@@ -2040,11 +2040,11 @@ msgstr "ID del recurso"
 
 msgctxt "field:ir.translation,src:"
 msgid "Source"
-msgstr "Origen"
+msgstr "Original"
 
 msgctxt "field:ir.translation,src_md5:"
 msgid "Source MD5"
-msgstr "Origen MD5"
+msgstr "MD5 original"
 
 msgctxt "field:ir.translation,type:"
 msgid "Type"
@@ -2648,7 +2648,7 @@ msgstr ""
 
 msgctxt "help:ir.rule.group,rules:"
 msgid "The rule is satisfied if at least one test is True"
-msgstr "La regla se satisface si al menos una condición es cierta."
+msgstr "La regla es correcta si al menos una condición es cierta."
 
 msgctxt "help:ir.trigger,condition:"
 msgid ""
@@ -3368,7 +3368,7 @@ msgstr "Realizado"
 
 msgctxt "selection:ir.module.module.config_wizard.item,state:"
 msgid "Open"
-msgstr "Abrir"
+msgstr "Para abrir"
 
 msgctxt "selection:ir.module.module.dependency,state:"
 msgid "Installed"
@@ -3721,7 +3721,7 @@ msgctxt "view:ir.rule.group:"
 msgid ""
 "If there is no test defined, the rule is always satisfied if not global"
 msgstr ""
-"Si no hay ningún test definido, la regla se satisface siempre si no es "
+"Si no hay ningún test definido, la regla es correcta siempre si no es "
 "global."
 
 msgctxt "view:ir.rule.group:"
@@ -3730,7 +3730,7 @@ msgstr "Reglas de registros"
 
 msgctxt "view:ir.rule.group:"
 msgid "The rule is satisfied if at least one test is True"
-msgstr "La regla se satisface si al menos una condición es cierta."
+msgstr "La regla es correcta si al menos una condición es cierta."
 
 msgctxt "view:ir.rule:"
 msgid "Test"

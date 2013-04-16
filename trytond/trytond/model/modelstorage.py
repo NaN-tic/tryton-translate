@@ -272,7 +272,7 @@ class ModelStorage(Model):
                 elif ftype in ('one2many',):
                     if data[field_name]:
                         data_o2m[field_name] = data[field_name]
-                    data[field_name] = False
+                    data[field_name] = None
                 elif ftype == 'many2many':
                     if data[field_name]:
                         data[field_name] = [('set', data[field_name])]
@@ -566,7 +566,7 @@ class ModelStorage(Model):
                     warn('too_many_relations_found', value, relation)
                     res = None
                 else:
-                    res = res[0]
+                    res = res[0].id
                 return res
 
             def get_many2many(relation, value):
@@ -586,7 +586,7 @@ class ModelStorage(Model):
                     else:
                         res.extend(res2)
                 if len(res):
-                    res = [('set', res)]
+                    res = [('set', [x.id for x in res])]
                 return res
 
             def get_one2one(relation, value):
@@ -678,11 +678,11 @@ class ModelStorage(Model):
                         else:
                             res = bool(int(value))
                     elif field_type == 'integer':
-                        res = value and int(value) or None
+                        res = int(value) if value else None
                     elif field_type == 'float':
-                        res = value and float(value) or None
+                        res = float(value) if value else None
                     elif field_type == 'numeric':
-                        res = value and Decimal(value) or None
+                        res = Decimal(value) if value else None
                     elif field_type == 'date':
                         res = value and datetime.date(*time.strptime(value,
                             '%Y-%m-%d')[:3])
