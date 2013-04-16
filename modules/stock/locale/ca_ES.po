@@ -185,23 +185,23 @@ msgstr "Nom"
 
 msgctxt "field:stock.configuration,shipment_in_return_sequence:"
 msgid "Supplier Return Shipment Sequence"
-msgstr "Seqüència albarà devolució proveïdor"
+msgstr "Seqüència d'albarà devolució proveïdor"
 
 msgctxt "field:stock.configuration,shipment_in_sequence:"
 msgid "Supplier Shipment Sequence"
-msgstr "Seqüència albarà proveïdor"
+msgstr "Seqüència d'albarà proveïdor"
 
 msgctxt "field:stock.configuration,shipment_internal_sequence:"
 msgid "Internal Shipment Sequence"
-msgstr "Seqüència albarà intern"
+msgstr "Seqüència d'albarà intern"
 
 msgctxt "field:stock.configuration,shipment_out_return_sequence:"
 msgid "Customer Return Shipment Sequence"
-msgstr "Seqüència albarà devolució client"
+msgstr "Seqüència d'albarà devolució client"
 
 msgctxt "field:stock.configuration,shipment_out_sequence:"
 msgid "Customer Shipment Sequence"
-msgstr "Seqüència albarà client"
+msgstr "Seqüència d'albarà client"
 
 msgctxt "field:stock.configuration,write_date:"
 msgid "Write Date"
@@ -381,7 +381,7 @@ msgstr "Dreta"
 
 msgctxt "field:stock.location,storage_location:"
 msgid "Storage"
-msgstr "Magatzem"
+msgstr "Intern"
 
 msgctxt "field:stock.location,type:"
 msgid "Location type"
@@ -1107,7 +1107,7 @@ msgstr "Albarans client devolució"
 
 msgctxt "model:ir.action,name:act_stock_configuration_form"
 msgid "Stock Configuration"
-msgstr "Configuració estoc"
+msgstr "Configuració d'estoc"
 
 msgctxt "model:ir.action,name:create_shipment_out_return"
 msgid "Create Return Shipment"
@@ -1374,7 +1374,7 @@ msgstr "Logística"
 
 msgctxt "model:ir.ui.menu,name:menu_stock_configuration"
 msgid "Stock Configuration"
-msgstr "Configuració estoc"
+msgstr "Estoc"
 
 msgctxt "model:product.by_location.start,name:"
 msgid "Product by Location"
@@ -1394,7 +1394,7 @@ msgstr "Forçar reserves en la logística"
 
 msgctxt "model:stock.configuration,name:"
 msgid "Stock Configuration"
-msgstr "Configuració estoc"
+msgstr "Configuració d'estoc"
 
 msgctxt "model:stock.inventory,name:"
 msgid "Stock Inventory"
@@ -1786,7 +1786,7 @@ msgstr "Producció"
 
 msgctxt "selection:stock.location,type:"
 msgid "Storage"
-msgstr "Magatzem"
+msgstr "Intern"
 
 msgctxt "selection:stock.location,type:"
 msgid "Supplier"
@@ -1934,7 +1934,7 @@ msgstr "Productes"
 
 msgctxt "view:stock.configuration:"
 msgid "Stock Configuration"
-msgstr "Configuració estoc"
+msgstr "Configuració d'estoc"
 
 msgctxt "view:stock.inventory.line:"
 msgid "Inventory Line"

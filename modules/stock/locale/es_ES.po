@@ -185,23 +185,23 @@ msgstr "Nombre"
 
 msgctxt "field:stock.configuration,shipment_in_return_sequence:"
 msgid "Supplier Return Shipment Sequence"
-msgstr "Secuencia albarán devolución proveedor"
+msgstr "Secuencia de albarán devolución proveedor"
 
 msgctxt "field:stock.configuration,shipment_in_sequence:"
 msgid "Supplier Shipment Sequence"
-msgstr "Secuencia albarán proveedor"
+msgstr "Secuencia de albarán proveedor"
 
 msgctxt "field:stock.configuration,shipment_internal_sequence:"
 msgid "Internal Shipment Sequence"
-msgstr "Secuencia albarán interno"
+msgstr "Secuencia de albarán interno"
 
 msgctxt "field:stock.configuration,shipment_out_return_sequence:"
 msgid "Customer Return Shipment Sequence"
-msgstr "Secuencia albarán devolución cliente"
+msgstr "Secuencia de albarán devolución cliente"
 
 msgctxt "field:stock.configuration,shipment_out_sequence:"
 msgid "Customer Shipment Sequence"
-msgstr "Secuencia albarán cliente"
+msgstr "Secuencia de albarán cliente"
 
 msgctxt "field:stock.configuration,write_date:"
 msgid "Write Date"
@@ -1051,7 +1051,7 @@ msgstr "Inventarios"
 
 msgctxt "model:ir.action,name:act_location_form"
 msgid "Locations"
-msgstr "Editar ubicaciones"
+msgstr "Ubicaciones"
 
 msgctxt "model:ir.action,name:act_location_quantity_tree"
 msgid "Locations"
@@ -1067,7 +1067,7 @@ msgstr "Movimientos"
 
 msgctxt "model:ir.action,name:act_period_list"
 msgid "Periods"
-msgstr "Períodos"
+msgstr "Configuración de períodos"
 
 msgctxt "model:ir.action,name:act_product_quantities_warehouse"
 msgid "Product Quantities By Warehouse"

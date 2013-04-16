@@ -174,7 +174,7 @@ msgstr "Idioma del tercer"
 
 msgctxt "field:party.configuration,party_sequence:"
 msgid "Party Sequence"
-msgstr "Seqüència tercer"
+msgstr "Seqüència del tercer"
 
 msgctxt "field:party.configuration,rec_name:"
 msgid "Name"

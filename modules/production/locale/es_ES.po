@@ -60,7 +60,7 @@ msgstr "ID"
 
 msgctxt "field:product.product-production.bom,product:"
 msgid "Product"
-msgstr "Productos"
+msgstr "Producto"
 
 msgctxt "field:product.product-production.bom,rec_name:"
 msgid "Name"
@@ -128,7 +128,7 @@ msgstr "Fecha estimada"
 
 msgctxt "field:production,product:"
 msgid "Product"
-msgstr "Productos"
+msgstr "Producto"
 
 msgctxt "field:production,quantity:"
 msgid "Quantity"
@@ -240,7 +240,7 @@ msgstr "ID"
 
 msgctxt "field:production.bom.input,product:"
 msgid "Product"
-msgstr "Productos"
+msgstr "Producto"
 
 msgctxt "field:production.bom.input,quantity:"
 msgid "Quantity"
@@ -288,7 +288,7 @@ msgstr "ID"
 
 msgctxt "field:production.bom.output,product:"
 msgid "Product"
-msgstr "Productos"
+msgstr "Producto"
 
 msgctxt "field:production.bom.output,quantity:"
 msgid "Quantity"
@@ -328,7 +328,7 @@ msgstr "ID"
 
 msgctxt "field:production.bom.tree,product:"
 msgid "Product"
-msgstr "Productos"
+msgstr "Producto"
 
 msgctxt "field:production.bom.tree,quantity:"
 msgid "Quantity"
@@ -356,7 +356,7 @@ msgstr "ID"
 
 msgctxt "field:production.bom.tree.open.start,product:"
 msgid "Product"
-msgstr "Productos"
+msgstr "Producto"
 
 msgctxt "field:production.bom.tree.open.start,quantity:"
 msgid "Quantity"
@@ -392,7 +392,7 @@ msgstr "ID"
 
 msgctxt "field:production.configuration,production_sequence:"
 msgid "Production Sequence"
-msgstr "Secuencia producción"
+msgstr "Secuencia de producción"
 
 msgctxt "field:production.configuration,rec_name:"
 msgid "Name"
@@ -420,15 +420,15 @@ msgstr "Salida producción"
 
 msgctxt "model:ir.action,name:act_bom_form"
 msgid "BOM"
-msgstr "LdM"
+msgstr "Listas de material"
 
 msgctxt "model:ir.action,name:act_bom_list"
 msgid "BOMs"
-msgstr "LdM"
+msgstr "Listas de material"
 
 msgctxt "model:ir.action,name:act_production_configuration_form"
 msgid "Production Configuration"
-msgstr "Configuración producción"
+msgstr "Configuración de la producción"
 
 msgctxt "model:ir.action,name:act_production_list"
 msgid "Productions"
@@ -482,7 +482,7 @@ msgstr "Producción"
 
 msgctxt "model:ir.ui.menu,name:menu_bom_list"
 msgid "BOMs"
-msgstr "Listas de Material"
+msgstr "Listas de material"
 
 msgctxt "model:ir.ui.menu,name:menu_configuration"
 msgid "Configuration"
@@ -494,7 +494,7 @@ msgstr "Producción"
 
 msgctxt "model:ir.ui.menu,name:menu_production_configuration"
 msgid "Production Configuration"
-msgstr "Configuración producción"
+msgstr "Producción"
 
 msgctxt "model:ir.ui.menu,name:menu_production_list"
 msgid "Productions"
@@ -538,7 +538,7 @@ msgstr "Abrir arbol BOM"
 
 msgctxt "model:production.configuration,name:"
 msgid "Production Configuration"
-msgstr "Configuración producción"
+msgstr "Configuración de la producción"
 
 msgctxt "model:res.group,name:group_production"
 msgid "Production"
@@ -598,15 +598,15 @@ msgstr "No se pueden reservar estos productos:"
 
 msgctxt "view:production.bom.input:"
 msgid "BOM Inputs"
-msgstr "Entradas LdM"
+msgstr "Entradas lista de material"
 
 msgctxt "view:production.bom.output:"
 msgid "BOM Outputs"
-msgstr "Salidas LdM"
+msgstr "Salidas lista de material"
 
 msgctxt "view:production.bom.tree.open.start:"
 msgid "BOM Tree"
-msgstr "Árbol LdM"
+msgstr "Árbol lista de material"
 
 msgctxt "view:production.bom.tree.open.tree:"
 msgid "BOM Tree"
@@ -618,11 +618,11 @@ msgstr "Árbol LdM"
 
 msgctxt "view:production.bom:"
 msgid "BOM"
-msgstr "LdM"
+msgstr "Lista de material"
 
 msgctxt "view:production.bom:"
 msgid "BOMs"
-msgstr "LdM"
+msgstr "Listas de material"
 
 msgctxt "view:production.bom:"
 msgid "Lines"
@@ -630,7 +630,7 @@ msgstr "Líneas"
 
 msgctxt "view:production.configuration:"
 msgid "Production Configuration"
-msgstr "Configuración producción"
+msgstr "Configuración de la producción"
 
 msgctxt "view:production:"
 msgid "Assign"

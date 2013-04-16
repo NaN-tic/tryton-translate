@@ -60,11 +60,11 @@ msgstr "Manual"
 
 msgctxt "selection:project.work,invoice_method:"
 msgid "On Effort"
-msgstr "Sobre esforç"
+msgstr "Per l'esforç estimat"
 
 msgctxt "selection:project.work,invoice_method:"
 msgid "On Timesheet"
-msgstr "Sobre fulls de treball"
+msgstr "Per les hores realitzades"
 
 msgctxt "selection:project.work,project_invoice_method:"
 msgid "Manual"
@@ -72,11 +72,11 @@ msgstr "Manual"
 
 msgctxt "selection:project.work,project_invoice_method:"
 msgid "On Effort"
-msgstr "Sobre esforç"
+msgstr "Per l'esforç estimat"
 
 msgctxt "selection:project.work,project_invoice_method:"
 msgid "On Timesheet"
-msgstr "Sobre fulls de treball"
+msgstr "Per les hores realitzades"
 
 msgctxt "view:project.work:"
 msgid "Invoice"

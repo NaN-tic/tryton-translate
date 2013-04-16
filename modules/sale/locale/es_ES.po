@@ -101,7 +101,7 @@ msgstr "Método de facturación"
 
 msgctxt "field:sale.configuration,sale_sequence:"
 msgid "Sale Reference Sequence"
-msgstr "Secuencia numeración venta"
+msgstr "Secuencia de numeración venta"
 
 msgctxt "field:sale.configuration,sale_shipment_method:"
 msgid "Sale Shipment Method"
@@ -619,7 +619,7 @@ msgstr "Facturas"
 
 msgctxt "model:ir.action,name:act_open_customer"
 msgid "Parties associated to Sales"
-msgstr "Terceros asociados a ventas"
+msgstr "Terceros con ventas"
 
 msgctxt "model:ir.action,name:act_return_form"
 msgid "Returns"
@@ -627,7 +627,7 @@ msgstr "Devolver"
 
 msgctxt "model:ir.action,name:act_sale_configuration_form"
 msgid "Sales Configuration"
-msgstr "Configuración pedidos de venta"
+msgstr "Configuración de venta"
 
 msgctxt "model:ir.action,name:act_sale_form"
 msgid "Sales"
@@ -694,7 +694,7 @@ msgstr "Configuración"
 
 msgctxt "model:ir.ui.menu,name:menu_customer"
 msgid "Parties associated to Sales"
-msgstr "Terceros asociados a ventas"
+msgstr "Terceros con ventas"
 
 msgctxt "model:ir.ui.menu,name:menu_sale"
 msgid "Sales"
@@ -982,7 +982,7 @@ msgstr "Clientes"
 
 msgctxt "view:sale.configuration:"
 msgid "Sale Configuration"
-msgstr "Configuración pedidos de venta"
+msgstr "Configuración de venta"
 
 msgctxt "view:sale.handle.invoice.exception.ask:"
 msgid "Choose invoices to recreate"

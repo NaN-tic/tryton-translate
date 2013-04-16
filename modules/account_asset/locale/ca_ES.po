@@ -73,7 +73,7 @@ msgstr "Assentament comptable"
 
 msgctxt "field:account.asset,product:"
 msgid "Product"
-msgstr "Productes"
+msgstr "Producte"
 
 msgctxt "field:account.asset,purchase_date:"
 msgid "Purchase Date"

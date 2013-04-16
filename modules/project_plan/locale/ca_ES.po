@@ -120,15 +120,15 @@ msgstr "Durada"
 
 msgctxt "field:project.work,early_finish_date:"
 msgid "Early Finish"
-msgstr "Finalització prematura"
+msgstr "Finalització avançada"
 
 msgctxt "field:project.work,early_finish_time:"
 msgid "Early Finish Time"
-msgstr "Hora de finalització prematura"
+msgstr "Hora de finalització avançada"
 
 msgctxt "field:project.work,early_start_date:"
 msgid "Early Start"
-msgstr "Inici prematur"
+msgstr "Inici avançat"
 
 msgctxt "field:project.work,early_start_time:"
 msgid "Early Start Time"
@@ -136,19 +136,19 @@ msgstr "Temps d'inici prematur"
 
 msgctxt "field:project.work,late_finish_date:"
 msgid "Late Finish"
-msgstr "Finalització tardana"
+msgstr "Finalització amb retard"
 
 msgctxt "field:project.work,late_finish_time:"
 msgid "Late Finish Time"
-msgstr "Hora de finalització tardana"
+msgstr "Hora de finalització amb retard"
 
 msgctxt "field:project.work,late_start_date:"
 msgid "Late Start"
-msgstr "Inici tardà"
+msgstr "Inici amb retard"
 
 msgctxt "field:project.work,late_start_time:"
 msgid "Late Start Time"
-msgstr "Hora d'inici tardana"
+msgstr "Hora d'inici amb retard"
 
 msgctxt "field:project.work,leveling_delay:"
 msgid "Leveling Delay"

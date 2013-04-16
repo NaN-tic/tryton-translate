@@ -100,7 +100,7 @@ msgstr "Mètode de facturació"
 
 msgctxt "field:sale.configuration,sale_sequence:"
 msgid "Sale Reference Sequence"
-msgstr "Seqüència numeració vendes"
+msgstr "Seqüència de numeració vendes"
 
 msgctxt "field:sale.configuration,sale_shipment_method:"
 msgid "Sale Shipment Method"
@@ -444,7 +444,7 @@ msgstr "Adreça enviament"
 
 msgctxt "field:sale.sale,shipment_method:"
 msgid "Shipment Method"
-msgstr "Mètode enviament"
+msgstr "Mètode d'enviament"
 
 msgctxt "field:sale.sale,shipment_returns:"
 msgid "Shipment Returns"
@@ -618,7 +618,7 @@ msgstr "Factures"
 
 msgctxt "model:ir.action,name:act_open_customer"
 msgid "Parties associated to Sales"
-msgstr "Tercers associats a vendes"
+msgstr "Tercers amb vendes"
 
 msgctxt "model:ir.action,name:act_return_form"
 msgid "Returns"
@@ -626,7 +626,7 @@ msgstr "Retorna"
 
 msgctxt "model:ir.action,name:act_sale_configuration_form"
 msgid "Sales Configuration"
-msgstr "Configuració vendes"
+msgstr "Configuració de les vendes"
 
 msgctxt "model:ir.action,name:act_sale_form"
 msgid "Sales"
@@ -693,7 +693,7 @@ msgstr "Configuració"
 
 msgctxt "model:ir.ui.menu,name:menu_customer"
 msgid "Parties associated to Sales"
-msgstr "Tercers associats a vendes"
+msgstr "Tercers amb vendes"
 
 msgctxt "model:ir.ui.menu,name:menu_sale"
 msgid "Sales"
@@ -701,7 +701,7 @@ msgstr "Vendes"
 
 msgctxt "model:ir.ui.menu,name:menu_sale_configuration"
 msgid "Sales Configuration"
-msgstr "Configuració vendes"
+msgstr "Vendes"
 
 msgctxt "model:ir.ui.menu,name:menu_sale_form"
 msgid "Sales"
@@ -717,7 +717,7 @@ msgstr "Administració de vendes"
 
 msgctxt "model:sale.configuration,name:"
 msgid "Sale Configuration"
-msgstr "Configuració vendes"
+msgstr "Configuració de les vendes"
 
 msgctxt "model:sale.handle.invoice.exception.ask,name:"
 msgid "Handle Invoice Exception"

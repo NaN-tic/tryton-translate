@@ -1089,7 +1089,7 @@ msgstr "Diario"
 
 msgctxt "field:account.move,lines:"
 msgid "Lines"
-msgstr "Apuntes"
+msgstr "Apunts"
 
 msgctxt "field:account.move,number:"
 msgid "Number"
@@ -1297,7 +1297,7 @@ msgstr "ID"
 
 msgctxt "field:account.move.reconciliation,lines:"
 msgid "Lines"
-msgstr "Apuntes"
+msgstr "Apunts"
 
 msgctxt "field:account.move.reconciliation,name:"
 msgid "Name"
@@ -3145,7 +3145,7 @@ msgstr "Actualizar plan contable desde plantilla"
 
 msgctxt "model:ir.ui.menu,name:menuitem_account_configuration"
 msgid "Account Configuration"
-msgstr "Configuración contable"
+msgstr "Contable"
 
 msgctxt "model:res.group,name:group_account"
 msgid "Account"

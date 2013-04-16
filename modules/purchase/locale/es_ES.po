@@ -103,7 +103,7 @@ msgstr "Método de facturación"
 
 msgctxt "field:purchase.configuration,purchase_sequence:"
 msgid "Purchase Reference Sequence"
-msgstr "Secuencia pedidos de compra"
+msgstr "Secuencia de pedidos de compra"
 
 msgctxt "field:purchase.configuration,rec_name:"
 msgid "Name"
@@ -746,11 +746,11 @@ msgstr "Facturas"
 
 msgctxt "model:ir.action,name:act_open_supplier"
 msgid "Parties associated to Purchases"
-msgstr "Terceros asociados a compras"
+msgstr "Terceros con compras"
 
 msgctxt "model:ir.action,name:act_purchase_configuration_form"
 msgid "Purchase Configuration"
-msgstr "Configuración compras"
+msgstr "Configuración de compras"
 
 msgctxt "model:ir.action,name:act_purchase_form"
 msgid "Purchases"
@@ -817,7 +817,7 @@ msgstr "Compras"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_configuration"
 msgid "Purchase Configuration"
-msgstr "Configuración compras"
+msgstr "Compras"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_form"
 msgid "Purchases"
@@ -829,11 +829,11 @@ msgstr "Informes"
 
 msgctxt "model:ir.ui.menu,name:menu_supplier"
 msgid "Parties associated to Purchases"
-msgstr "Terceros asociados a compras"
+msgstr "Terceros con compras"
 
 msgctxt "model:purchase.configuration,name:"
 msgid "Purchase Configuration"
-msgstr "Configuración compras"
+msgstr "Configuración de compras"
 
 msgctxt "model:purchase.handle.invoice.exception.ask,name:"
 msgid "Handle Invoice Exception"
@@ -1085,7 +1085,7 @@ msgstr "Proveedores"
 
 msgctxt "view:purchase.configuration:"
 msgid "Purchase Configuration"
-msgstr "Configuración compras"
+msgstr "Configuración de compras"
 
 msgctxt "view:purchase.handle.invoice.exception.ask:"
 msgid "Choose invoices to recreate"

@@ -206,7 +206,7 @@ msgstr "Nom"
 
 msgctxt "field:stock.order_point,storage_location:"
 msgid "Storage Location"
-msgstr "Ubicació del magatzem"
+msgstr "Ubicació interna"
 
 msgctxt "field:stock.order_point,type:"
 msgid "Type"
@@ -242,7 +242,7 @@ msgstr "Compres"
 
 msgctxt "model:ir.action,name:act_purchase_request_create"
 msgid "Create Purchase Requests"
-msgstr "Crear Ordres de producció"
+msgstr "Crea sol·licituds de compra"
 
 msgctxt "model:ir.action,name:act_purchase_request_form"
 msgid "Purchase Requests"
@@ -276,7 +276,7 @@ msgstr "Regles d'estoc mínim"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_request_create"
 msgid "Create Purchase Requests"
-msgstr "Crear Ordres de producció"
+msgstr "Crea sol·licituds de compra"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_request_form"
 msgid "Purchase Requests"
@@ -392,7 +392,7 @@ msgstr "Informació del producte"
 
 msgctxt "wizard_button:purchase.request.create,start,create_:"
 msgid "Create"
-msgstr "Crear"
+msgstr "Crea"
 
 msgctxt "wizard_button:purchase.request.create,start,end:"
 msgid "Cancel"

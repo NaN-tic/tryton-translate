@@ -1564,7 +1564,7 @@ msgstr "Usuari creació"
 
 msgctxt "field:account.tax,credit_note_account:"
 msgid "Credit Note Account"
-msgstr "Compte del abonament"
+msgstr "Compte de l'abonament"
 
 msgctxt "field:account.tax,credit_note_base_code:"
 msgid "Credit Note Base Code"
@@ -2060,7 +2060,7 @@ msgstr "Usuari creació"
 
 msgctxt "field:account.tax.template,credit_note_account:"
 msgid "Credit Note Account"
-msgstr "Compte del abonament"
+msgstr "Compte de l'abonament"
 
 msgctxt "field:account.tax.template,credit_note_base_code:"
 msgid "Credit Note Base Code"
@@ -3145,7 +3145,7 @@ msgstr "Actualitza pla comptable des de plantilla"
 
 msgctxt "model:ir.ui.menu,name:menuitem_account_configuration"
 msgid "Account Configuration"
-msgstr "Configuració comptable"
+msgstr "Comptable"
 
 msgctxt "model:res.group,name:group_account"
 msgid "Account"

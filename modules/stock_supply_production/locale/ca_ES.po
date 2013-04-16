@@ -20,15 +20,15 @@ msgstr "Sol·licituds de producció"
 
 msgctxt "model:ir.action,name:act_production_request_create"
 msgid "Create Production Requests"
-msgstr "Crea peticions de compra"
+msgstr "Crea sol·licituts de producció"
 
 msgctxt "model:ir.cron,name:cron_generate_request"
 msgid "Generate Production Requests"
-msgstr "Creació de peticions de producció"
+msgstr "Creació sol·licituts de producció"
 
 msgctxt "model:ir.ui.menu,name:menu_production_request_create"
 msgid "Create Production Requests"
-msgstr "Crea de peticions de producció"
+msgstr "Crea sol·licituts de producció"
 
 msgctxt "model:production.create_request.start,name:"
 msgid "Create Production Request"
@@ -44,7 +44,7 @@ msgstr "Producció"
 
 msgctxt "view:production.create_request.start:"
 msgid "Create Production Request"
-msgstr "Crea peticions petició de producció"
+msgstr "Crea sol·licituts de producció"
 
 msgctxt "view:production.create_request.start:"
 msgid "Create Production Request?"

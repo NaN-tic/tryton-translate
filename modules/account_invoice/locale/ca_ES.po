@@ -931,7 +931,7 @@ msgstr "Factura"
 
 msgctxt "field:party.party,customer_payment_term:"
 msgid "Customer Payment Term"
-msgstr "Termini pagament del client"
+msgstr "Termini de pagament del client"
 
 msgctxt "field:party.party,supplier_payment_term:"
 msgid "Supplier Payment Term"
@@ -1323,7 +1323,7 @@ msgstr "Comentari"
 
 msgctxt "selection:account.invoice.line,type:"
 msgid "Line"
-msgstr "Apunt"
+msgstr "Linea"
 
 msgctxt "selection:account.invoice.line,type:"
 msgid "Subtotal"

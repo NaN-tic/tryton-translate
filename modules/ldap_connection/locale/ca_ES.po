@@ -36,7 +36,7 @@ msgstr "Nom"
 
 msgctxt "field:ldap.connection,secure:"
 msgid "Secure"
-msgstr "Segura"
+msgstr "Seguretat"
 
 msgctxt "field:ldap.connection,server:"
 msgid "Server"
@@ -120,7 +120,7 @@ msgstr "Connexió LDAP"
 
 msgctxt "view:ldap.connection:"
 msgid "_Test Connection"
-msgstr "_Provar connexió"
+msgstr "_Prova connexió"
 
 msgctxt "view:ldap.test_connection.result:"
 msgid "Test Connection Succeed!"

@@ -4,11 +4,11 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "field:carrier,carrier_cost_method:"
 msgid "Carrier Cost Method"
-msgstr "Método del coste de transportista"
+msgstr "Método coste de transportista"
 
 msgctxt "field:carrier,carrier_product:"
 msgid "Carrier Product"
-msgstr "Productos del transportista"
+msgstr "Producto del transportista"
 
 msgctxt "field:carrier,create_date:"
 msgid "Create Date"

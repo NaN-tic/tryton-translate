@@ -77,7 +77,7 @@ msgstr "Proveïdors"
 
 msgctxt "field:product.template,purchasable:"
 msgid "Purchasable"
-msgstr "Es pot comprar"
+msgstr "Pot ser comprat"
 
 msgctxt "field:product.template,purchase_uom:"
 msgid "Purchase UOM"
@@ -101,7 +101,7 @@ msgstr "Mètode de facturació"
 
 msgctxt "field:purchase.configuration,purchase_sequence:"
 msgid "Purchase Reference Sequence"
-msgstr "Seqüència comanda de compra"
+msgstr "Seqüència de comanda de compra"
 
 msgctxt "field:purchase.configuration,rec_name:"
 msgid "Name"
@@ -742,11 +742,11 @@ msgstr "Factures"
 
 msgctxt "model:ir.action,name:act_open_supplier"
 msgid "Parties associated to Purchases"
-msgstr "Tercers associats amb compres"
+msgstr "Tercers amb compres"
 
 msgctxt "model:ir.action,name:act_purchase_configuration_form"
 msgid "Purchase Configuration"
-msgstr "Configuració compres"
+msgstr "Configuració de les compres"
 
 msgctxt "model:ir.action,name:act_purchase_form"
 msgid "Purchases"
@@ -813,7 +813,7 @@ msgstr "Compres"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_configuration"
 msgid "Purchase Configuration"
-msgstr "Configuració compres"
+msgstr "Compres"
 
 msgctxt "model:ir.ui.menu,name:menu_purchase_form"
 msgid "Purchases"
@@ -825,11 +825,11 @@ msgstr "Informes"
 
 msgctxt "model:ir.ui.menu,name:menu_supplier"
 msgid "Parties associated to Purchases"
-msgstr "Tercers associats amb compres"
+msgstr "Tercers amb compres"
 
 msgctxt "model:purchase.configuration,name:"
 msgid "Purchase Configuration"
-msgstr "Configuració compres"
+msgstr "Configuració de les compres"
 
 msgctxt "model:purchase.handle.invoice.exception.ask,name:"
 msgid "Handle Invoice Exception"
@@ -1081,7 +1081,7 @@ msgstr "Proveïdors"
 
 msgctxt "view:purchase.configuration:"
 msgid "Purchase Configuration"
-msgstr "Configuració compres"
+msgstr "Configuració de les compres"
 
 msgctxt "view:purchase.handle.invoice.exception.ask:"
 msgid "Choose invoices to recreate"

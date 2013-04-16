@@ -494,7 +494,7 @@ msgstr "Producció"
 
 msgctxt "model:ir.ui.menu,name:menu_production_configuration"
 msgid "Production Configuration"
-msgstr "Configuració de la producció"
+msgstr "Producció"
 
 msgctxt "model:ir.ui.menu,name:menu_production_list"
 msgid "Productions"

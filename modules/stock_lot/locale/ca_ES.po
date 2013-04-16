@@ -148,7 +148,7 @@ msgstr "Producció"
 
 msgctxt "model:stock.lot.type,name:type_storage"
 msgid "Storage"
-msgstr "Magatzem"
+msgstr "Emmagatzemament"
 
 msgctxt "model:stock.lot.type,name:type_supplier"
 msgid "Supplier"

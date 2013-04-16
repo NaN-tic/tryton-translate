@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "field:carrier,carrier_cost_method:"
 msgid "Carrier Cost Method"
-msgstr "Mètode del cost de transportista"
+msgstr "Mètode cost del transportista"
 
 msgctxt "field:carrier,carrier_product:"
 msgid "Carrier Product"

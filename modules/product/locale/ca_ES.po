@@ -166,7 +166,7 @@ msgstr "Nom"
 
 msgctxt "field:product.template,products:"
 msgid "Variants"
-msgstr "Productes"
+msgstr "Variants"
 
 msgctxt "field:product.template,rec_name:"
 msgid "Name"
@@ -302,7 +302,7 @@ msgstr "Productes"
 
 msgctxt "model:ir.action,name:act_template_by_category"
 msgid "Product by Category"
-msgstr "Producte per categoria"
+msgstr "Productes per categoria"
 
 msgctxt "model:ir.action,name:act_template_form"
 msgid "Products"
@@ -330,7 +330,7 @@ msgstr "Producte"
 
 msgctxt "model:ir.ui.menu,name:menu_product"
 msgid "Products"
-msgstr "Productes"
+msgstr "Variants"
 
 msgctxt "model:ir.ui.menu,name:menu_template"
 msgid "Products"
@@ -350,7 +350,7 @@ msgstr "Categoria de producte"
 
 msgctxt "model:product.product,name:"
 msgid "Product Variant"
-msgstr "Producte"
+msgstr "Variant de producte"
 
 msgctxt "model:product.template,name:"
 msgid "Product Template"
@@ -658,7 +658,7 @@ msgstr "Béns"
 
 msgctxt "selection:product.product,type:"
 msgid "Service"
-msgstr "Servei"
+msgstr "Serveis"
 
 msgctxt "selection:product.template,cost_price_method:"
 msgid "Average"
@@ -678,7 +678,7 @@ msgstr "Béns"
 
 msgctxt "selection:product.template,type:"
 msgid "Service"
-msgstr "Servei"
+msgstr "Serveis"
 
 msgctxt "view:product.category:"
 msgid "Children"
