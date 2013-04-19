@@ -7,10 +7,12 @@ msgid ""
 "You can not create an attachment named \"%(attachment)s in collection "
 "\"%(collection)s\" because there is already a collection with that name."
 msgstr ""
+"No podeu crear un adjunt anomenat \"%(attachment)s al directori "
+"\"%(collection)s\" perquè ja existeix un altre amb aquest nom."
 
 msgctxt "error:webdav.collection:"
 msgid "The collection name must be unique inside a collection!"
-msgstr "El nom de col·lecció ha de ser únic dins d'una col·lecció."
+msgstr "El nom del directori ha de ser únic dins del directori."
 
 msgctxt "field:ir.attachment,path:"
 msgid "Path"
@@ -122,11 +124,11 @@ msgstr "Usuari modificació"
 
 msgctxt "model:ir.action,name:act_collection_list"
 msgid "Collections"
-msgstr "Col·leccions"
+msgstr "Directoris"
 
 msgctxt "model:ir.action,name:act_collection_tree"
 msgid "Collections"
-msgstr "Col·leccions"
+msgstr "Directoris"
 
 msgctxt "model:ir.action,name:act_share_list"
 msgid "Shares"
@@ -134,11 +136,11 @@ msgstr "Comparteix"
 
 msgctxt "model:ir.ui.menu,name:menu_collection_list"
 msgid "Collections"
-msgstr "Col·leccions"
+msgstr "Directoris"
 
 msgctxt "model:ir.ui.menu,name:menu_collection_tree"
 msgid "Collections"
-msgstr "Col·leccions"
+msgstr "Directoris"
 
 msgctxt "model:ir.ui.menu,name:menu_share_list"
 msgid "Shares"
@@ -150,7 +152,7 @@ msgstr "WebDAV"
 
 msgctxt "model:webdav.collection,name:"
 msgid "Collection"
-msgstr "Col·lecció"
+msgstr "Directori"
 
 msgctxt "model:webdav.share,name:"
 msgid "Share"
@@ -162,11 +164,11 @@ msgstr "WebDAV"
 
 msgctxt "view:webdav.collection:"
 msgid "Collection"
-msgstr "Col·lecció"
+msgstr "Directori"
 
 msgctxt "view:webdav.collection:"
 msgid "Collections"
-msgstr "Col·leccions"
+msgstr "Directoris"
 
 msgctxt "view:webdav.share:"
 msgid "Share"
