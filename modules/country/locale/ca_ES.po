@@ -20792,7 +20792,7 @@ msgstr "Parròquia"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Popularates"
-msgstr ""
+msgstr "Popularates"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Prefecture"

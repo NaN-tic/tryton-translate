@@ -41,11 +41,11 @@ msgstr ""
 
 msgctxt "error:sale.sale:"
 msgid "It misses an \"Account Receivable\" on the party \"%s\"."
-msgstr "Falta una \"Cuenta a cobrar\" en la compañía \"%s\"."
+msgstr "Falta una \"Cuenta a cobrar\" al tercero \"%s\"."
 
 msgctxt "error:sale.sale:"
 msgid "Sale \"%s\" must be cancelled before deletion."
-msgstr "Antes de borrar la venta \"%s\" se debe cancelar."
+msgstr "Debe cancelar la venta \"%s\" antes de borrar."
 
 msgctxt "error:sale.sale:"
 msgid "Warehouse must be defined for the quotation of sale \"%s\"."

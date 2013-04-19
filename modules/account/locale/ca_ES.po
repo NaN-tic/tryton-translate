@@ -175,6 +175,8 @@ msgstr ""
 msgctxt "error:account.move:"
 msgid "You can not create lines on accountsof different companies in move \"%s\"."
 msgstr ""
+"No es pot crear línies d'apunts de diferents companyies a l'assentament "
+"\"%s\"."
 
 msgctxt "error:account.move:"
 msgid ""

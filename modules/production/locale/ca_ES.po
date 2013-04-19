@@ -36,7 +36,7 @@ msgstr "El producte ha de ser únic a la LdM."
 
 msgctxt "error:production:"
 msgid "Production \"%s\" misses costs on some of its outputs."
-msgstr "Producció \"%s\" perd costos a alguna de les seves sortides."
+msgstr "La producció \"%s\" perd costos a alguna de les seves sortides."
 
 msgctxt "field:product.product,boms:"
 msgid "BOMs"

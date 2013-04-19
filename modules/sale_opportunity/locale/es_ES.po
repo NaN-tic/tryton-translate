@@ -8,7 +8,7 @@ msgstr "La probabilidad debe estar entre 0 y 100."
 
 msgctxt "error:sale.opportunity:"
 msgid "Sale Opportunity \"%s\" must be cancelled before deletion."
-msgstr "Antes de borrar la oportunidad \"%s\", se debe cancelar."
+msgstr "Debe cancelar la oportunidad \"%s\" antes de borrar."
 
 msgctxt "field:sale.opportunity,address:"
 msgid "Address"

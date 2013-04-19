@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:purchase.purchase:"
 msgid "Analytic account is required on line \"%s\"."
-msgstr ""
+msgstr "Se requiere la cuenta analítica en la línea \"%s\"."
 
 msgctxt "field:analytic_account.account,active:"
 msgid "Active"

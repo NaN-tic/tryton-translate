@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:account.asset:"
 msgid "Asset \"%s\" must be in draft to be deleted!"
-msgstr "El activo \"%s\" debe estar en estado borrador para poder borrarse."
+msgstr "Debe cambiar a borrador el activo \"%s\" antes de borrar."
 
 msgctxt "error:account.asset:"
 msgid "Supplier Invoice Line can be used only once on asset!"

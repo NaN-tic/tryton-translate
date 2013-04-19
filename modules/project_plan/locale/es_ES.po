@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:project.allocation:"
 msgid "Percentage must be greater than zero"
-msgstr "El porcentaje debe ser mayor que cero"
+msgstr "El porcentaje debe ser mayor que cero."
 
 msgctxt "field:project.allocation,create_date:"
 msgid "Create Date"
@@ -196,7 +196,7 @@ msgstr "Asignaciones"
 
 msgctxt "view:project.work:"
 msgid "Plan"
-msgstr "Plan"
+msgstr "Planificación"
 
 msgctxt "view:project.work:"
 msgid "Requests"

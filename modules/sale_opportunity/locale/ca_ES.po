@@ -8,7 +8,7 @@ msgstr "La provabilitat ha de ser entre 0 i 100."
 
 msgctxt "error:sale.opportunity:"
 msgid "Sale Opportunity \"%s\" must be cancelled before deletion."
-msgstr "Abans d'esborrar l'oportunitat \"%s\", s'ha de cancel·lar."
+msgstr "Heu de cancel·lar l 'oportunitat \"%s\" abans de ser eliminat."
 
 msgctxt "field:sale.opportunity,address:"
 msgid "Address"

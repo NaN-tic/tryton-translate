@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:account.asset:"
 msgid "Asset \"%s\" must be in draft to be deleted!"
-msgstr "L'actiu \"%s\" ha d'estar en estat esborrany per poder esborrar-se."
+msgstr "Heu de canviar a borrador l'actiu \"%s\" abans de ser eliminat."
 
 msgctxt "error:account.asset:"
 msgid "Supplier Invoice Line can be used only once on asset!"
@@ -17,7 +17,7 @@ msgstr "L'actiu només es pot utilitzar un cop a la línia de factura."
 
 msgctxt "error:purchase.line:"
 msgid "It misses an \"Account Asset\" on product \"%s\"!"
-msgstr "Fa falta el \"Compte d'Actius\" del producte \"%s\"."
+msgstr "Falta el \"Compte d'actius\" del producte \"%s\"."
 
 msgctxt "field:account.asset,account_journal:"
 msgid "Journal"

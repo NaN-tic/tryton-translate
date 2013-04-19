@@ -13,7 +13,7 @@ msgstr "No podeu restaurar a esborrany una factura generada per una venda."
 msgctxt "error:sale.line:"
 msgid "Product \"%(product)s\" of sale %(sale)s misses a revenue account."
 msgstr ""
-"Manca el compte a cobrar del producte \"%(product)s\" de la venda %(sale)s."
+"Falta el compte a cobrar del producte \"%(product)s\" de la venda %(sale)s."
 
 msgctxt "error:sale.line:"
 msgid "Sale \"%(sale)s\" is missing the customer location in line \"%(line)s\"."
@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "error:sale.line:"
 msgid "Sale \"%(sale)s\" misses an \"account revenue\" default property."
-msgstr "Manca la propietat \"Compte a cobrar\" per defecte de les vendes."
+msgstr "Falta la propietat \"Compte a cobrar\" per defecte de les vendes."
 
 msgctxt "error:sale.sale:"
 msgid "Invalid combination of shipment and invoicing methods on sale \"%s\"."
@@ -40,11 +40,11 @@ msgstr ""
 
 msgctxt "error:sale.sale:"
 msgid "It misses an \"Account Receivable\" on the party \"%s\"."
-msgstr "Manca un \"Compte a cobrar\" a la companyia \"%s\"."
+msgstr "Falta un \"Compte a cobrar\" al tercer \"%s\"."
 
 msgctxt "error:sale.sale:"
 msgid "Sale \"%s\" must be cancelled before deletion."
-msgstr "Abans d'esborrar la venda \"%s\" s'ha de cancel·lar."
+msgstr "Heu de cancel·lar la venda \"%s\" abans de ser eliminat."
 
 msgctxt "error:sale.sale:"
 msgid "Warehouse must be defined for the quotation of sale \"%s\"."

@@ -20792,7 +20792,7 @@ msgstr "Parroquia"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Popularates"
-msgstr ""
+msgstr "Popularates"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Prefecture"
@@ -20832,7 +20832,7 @@ msgstr "Ciudad republicana"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Self-governed part"
-msgstr ""
+msgstr "Autonoma"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special District"

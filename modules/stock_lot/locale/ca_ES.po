@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:stock.move:"
 msgid "Lot is required for move of product \"%s\"."
-msgstr ""
+msgstr "El lot es requerit pel moviment del producte \"%s\"."
 
 msgctxt "field:product.template,lot_required:"
 msgid "Lot Required"

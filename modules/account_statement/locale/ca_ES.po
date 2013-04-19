@@ -20,9 +20,7 @@ msgstr "L'import hauria de ser un valor positiu o negatiu."
 
 msgctxt "error:account.statement.line:"
 msgid "Please provide debit and credit account on statement journal \"%s\"."
-msgstr ""
-"Si us plau, proporcioneu un compte d'haver i de deure al diari d'extracte "
-"\"%s\"."
+msgstr "Proporcioneu un compte d'haver i de deure al diari d'extracte \"%s\"."
 
 msgctxt "error:account.statement:"
 msgid "End Balance must be \"%s\"."
@@ -30,7 +28,7 @@ msgstr "El saldo final ha de ser \"%s\"."
 
 msgctxt "error:account.statement:"
 msgid "Statement \"%s\" must be cancelled before deletion."
-msgstr "Abans d'esborrar l'extracte \"%s\", heu de cancel·lar-lo."
+msgstr "Heu de cancel·lar l'extracte \"%s\"abans de ser eliminat."
 
 msgctxt "field:account.statement,balance:"
 msgid "Balance"

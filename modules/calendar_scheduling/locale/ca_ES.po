@@ -11,7 +11,7 @@ msgid ""
 "%s (%s) changed his/her participation status to: %s\n"
 "\n"
 msgstr ""
-"%s (%s) hl'estat de la seva participació a: %s\n"
+"%s (%s) ha canviat la seva participació a: %s\n"
 "\n"
 
 msgctxt "error:calendar.event.attendee:"

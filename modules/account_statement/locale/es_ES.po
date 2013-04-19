@@ -21,8 +21,7 @@ msgstr "El importe debería ser un valor positivo o negativo."
 msgctxt "error:account.statement.line:"
 msgid "Please provide debit and credit account on statement journal \"%s\"."
 msgstr ""
-"Por favor, proporcione una cuenta de haber y de debe en el diario de "
-"extracto \"%s\"."
+"Proporcione una cuenta de haber y de debe en el diario de extracto \"%s\"."
 
 msgctxt "error:account.statement:"
 msgid "End Balance must be \"%s\"."
@@ -30,7 +29,7 @@ msgstr "El saldo final debe ser \"%s\"."
 
 msgctxt "error:account.statement:"
 msgid "Statement \"%s\" must be cancelled before deletion."
-msgstr "Antes de borrar el extracto \"%s\" debe cancelarlo."
+msgstr "Debe cancelar el extracto \"%s\" antes de borrar."
 
 msgctxt "field:account.statement,balance:"
 msgid "Balance"

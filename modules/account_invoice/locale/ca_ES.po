@@ -34,11 +34,11 @@ msgstr ""
 
 msgctxt "error:account.invoice.line:"
 msgid "Line with \"line\" type must have an account."
-msgstr "La línia de tipus \"Línia\" ha de tenir un compte."
+msgstr "La línia de tipus \"línia\" ha de tenir un compte."
 
 msgctxt "error:account.invoice.line:"
 msgid "Line without \"line\" type must have an invoice."
-msgstr "La línia sense tipus \"Línia\" ha de tenir una factura."
+msgstr "La línia sense tipus \"línia\" ha de tenir una factura."
 
 msgctxt "error:account.invoice.line:"
 msgid ""
@@ -91,8 +91,8 @@ msgid ""
 "Percentage and Divisor values are not consistent in line \"%(line)s\" of "
 "payment term \"%(term)s\"."
 msgstr ""
-"Els valors de percentatge i divisor no són consistents a la línia "
-"\"%(line)s\" del termini de pagament \"%(term)s\"."
+"Percentatge i divisor no són consistents a la línia \"%(line)s\" del termini"
+" de pagament \"%(term)s\"."
 
 msgctxt "error:account.invoice.payment_term:"
 msgid "Invalid line \"%(line)s\" in payment term \"%(term)s\"."
@@ -174,7 +174,7 @@ msgstr ""
 
 msgctxt "error:account.invoice:"
 msgid "Invoice \"%s\" must be cancelled before deletion."
-msgstr "Heu de cancel·lar la factura \"%s\" abans d'esborrar-la."
+msgstr "Heu de cancel·lar la factura \"%s\" abans de ser eliminada."
 
 msgctxt "error:account.invoice:"
 msgid ""

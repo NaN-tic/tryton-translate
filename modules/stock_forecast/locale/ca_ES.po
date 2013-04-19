@@ -4,15 +4,15 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "error:stock.forecast.complete:"
 msgid "\"From Date\" should be smaller than \"To Date\"."
-msgstr ""
+msgstr "\"Desde de la data\" ha de ser més petit que \"Fins a la data\"."
 
 msgctxt "error:stock.forecast.line:"
 msgid "Line quantity must be greater than the minimal quantity"
-msgstr ""
+msgstr "La quantitat de la línia ha de ser superior a la quantitat mínima."
 
 msgctxt "error:stock.forecast.line:"
 msgid "Line quantity must be positive"
-msgstr ""
+msgstr "La quantitat de la línia ha de ser positiva."
 
 msgctxt "error:stock.forecast.line:"
 msgid "Product must be unique by forecast"
@@ -20,17 +20,19 @@ msgstr "El producte ha de ser únic en la previssió d'estocs."
 
 msgctxt "error:stock.forecast:"
 msgid "\"To Date\" must be greater than \"From Date\""
-msgstr ""
+msgstr "\"Fins a la data\" ha de ser més gran que \"Desde de la data\"."
 
 msgctxt "error:stock.forecast:"
 msgid ""
 "Forecast \"%(first)s\" overlaps with dates of forecast \"%(second)s\" in the"
 " same location."
 msgstr ""
+"La previsó \"%(first)s\" es solapa amb les dates de la pervisió "
+"\"%(second)s\" a la mateixa ubicació."
 
 msgctxt "error:stock.forecast:"
 msgid "Forecast \"%s\" must be cancelled before deletion."
-msgstr ""
+msgstr "Heu de cancel·lar la previsió \"%s\" abans de ser eliminat."
 
 msgctxt "field:stock.forecast,company:"
 msgid "Company"
